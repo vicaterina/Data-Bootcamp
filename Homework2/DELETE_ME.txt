@@ -1,0 +1,3 @@
+DUMMYFILE
+THIS line was added.
+THIS line was added.
